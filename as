@@ -13,10 +13,16 @@ http://127.0.0.1:6878/ace/getstream?id=49acacbbbcf33be6e843958ceedc7da8dd4f1486
 http://127.0.0.1:6878/ace/getstream?id=c47f756750190e4b2a9eefe8afdac48a2203b8d6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar",M+ DEPORTES 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=85bd65161dfd8c4033194da3c978c0450c9111db
-#EXTINF:-1 group-title="Movistar" ,M+ Deportes 3 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=0c8935087510ee1c5117243a6cc46f9d6d795faf
-#EXTINF:-1 group-title="Movistar" ,M+ Deportes 4 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=a88195215f9b6e38bf6363d28bfe84000a12d46a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 5 HD
+http://127.0.0.1:6878/ace/getstream?id=5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 6 HD
+http://127.0.0.1:6878/ace/getstream?id=b779e6056975e3682a804d47cbd5cc806217f64d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 7 HD
+http://127.0.0.1:6878/ace/getstream?id=5332bb2816154565c8953257da07c2dcb46fccca
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/500px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar",M+ GOLF FHD 
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/268/4553268-middle.png" group-title="Movistar",M+ LIGA FHD
@@ -33,20 +39,22 @@ http://127.0.0.1:6878/ace/getstream?id=608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
 http://127.0.0.1:6878/ace/getstream?id=49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 group-title="Movistar",#VAMOS
 http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
+#EXTINF:-1 group-title="Movistar",ELLAS #V
+http://127.0.0.1:6878/ace/getstream?id=96b091c006f02bb1ca80743905b2cffded8bc8b0
 #EXTINF:-1 group-title="Movistar",M+ #0
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="DAZN" ,DAZN 1 ES 
-http://127.0.0.1:6878/ace/getstream?id=ad7973215880d12940a75699aa7044839a13a6f1
+http://127.0.0.1:6878/ace/getstream?id=d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="DAZN" ,DAZN 2 ES 
-http://127.0.0.1:6878/ace/getstream?id=b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
+http://127.0.0.1:6878/ace/getstream?id=42fea4e172bf3debe0e004260bdd077fe0b4f58e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="DAZN" ,DAZN 3 ES
 http://127.0.0.1:6878/ace/getstream?id=bfbcda5a0999256360ce560caf2a6473aafc3f11
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="DAZN" ,DAZN 4 ES
 http://127.0.0.1:6878/ace/getstream?id=3634ae8e7443f637222e0255f0fc70bf3f050e64
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 1 HD 
-http://127.0.0.1:6878/ace/getstream?id=3092996191aa30c04085bc5b0dec198dcfc11d6f
+http://127.0.0.1:6878/ace/getstream?id=56bb17b376ec52b5e58679d87ed2bd9e70be2175
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 2 HD 
-http://127.0.0.1:6878/ace/getstream?id=b402a5fc3d93860c7f4a9c46463ff5469b6436f6
+http://127.0.0.1:6878/ace/getstream?id=3186bc27f56cbcab144feafa19efadbca1255a8f
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 3 HD 
 http://127.0.0.1:6878/ace/getstream?id=4d78fadc6701008fb528202d9671e1d0f2acd486
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT 1 DE
