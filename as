@@ -175,11 +175,9 @@ http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 group-title="Sport Digital", Sport Digital DE
 http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sony LIV",Sony Six HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Six_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sony LIV",Sony Ten 1 HD
-http://103.139.171.5:5001/jiotvplus/live.php??c=Ten_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848" group-title="SONY LIV",Sony Ten 2 HD
-http://103.139.171.5:5001/jiotvplus/live.php??c=Ten2_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20190322144135" group-title="SONY LIV",Sony Ten 3 HD
-http://103.139.171.5:5001/jiotvplus/live.php??c=Ten3_HD&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Bein Sports", BEIN SPORTS 1 FR
+http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 group-title="Bein Sports", BEIN SPORTS 2 FR
+http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="Bein Sports", BEIN SPORTS 3 FR
+http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
