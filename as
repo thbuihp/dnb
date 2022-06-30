@@ -69,6 +69,10 @@ http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT 2 PL
 http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT 1 ES
+http://127.0.0.1:6878/ace/getstream?id=40da37534656efcc6179c1b7693335d5e8212e43
+#EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT 2 ES
+http://127.0.0.1:6878/ace/getstream?id=1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT360 HD 1 DE
 http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT360 HD 2 DE
