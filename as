@@ -116,9 +116,9 @@ http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports Cricket HD
 http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport F1 DE HD
-http://127.0.0.1:6878/ace/getstream?id=acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports F1 UK HD
-http://127.0.0.1:6878/ace/getstream?id=acestream://94cbe1ffb1080b4201f198a09ee0e53d1782dcd2
+http://127.0.0.1:6878/ace/getstream?id=94cbe1ffb1080b4201f198a09ee0e53d1782dcd2
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports Main Event HD
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png", Sky Bundesliga 1 HD DE
