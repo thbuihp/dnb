@@ -51,6 +51,8 @@ http://127.0.0.1:6878/ace/getstream?id=42fea4e172bf3debe0e004260bdd077fe0b4f58e
 http://127.0.0.1:6878/ace/getstream?id=bfbcda5a0999256360ce560caf2a6473aafc3f11
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="DAZN" ,DAZN 4 ES
 http://127.0.0.1:6878/ace/getstream?id=3634ae8e7443f637222e0255f0fc70bf3f050e64
+#EXTINF:-1 group-title="DAZN" ,DAZN F1 FHD
+http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 1 HD 
 http://127.0.0.1:6878/ace/getstream?id=56bb17b376ec52b5e58679d87ed2bd9e70be2175
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 2 HD 
@@ -91,8 +93,6 @@ http://127.0.0.1:6878/ace/getstream?id=b18657f64507cc859cd7edef1aef90feb053e791
 http://127.0.0.1:6878/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT360 HD 9 DE
 http://127.0.0.1:6878/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
-#EXTINF:-1 group-title="DAZN" ,DAZN F1 FHD
-http://127.0.0.1:6878/ace/getstream?id=0594bdc7cb0ee7b1af5ff6634a9b346de204d00d
 #EXTINF:-1 group-title="BT Sport" tvg-logo="http://vietanhtv.duckdns.org/ic/btsports.png", BT Sport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 group-title="BT Sport" tvg-logo="http://vietanhtv.duckdns.org/ic/btsports.png", BT Sport 2 HD
