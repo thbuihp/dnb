@@ -12,11 +12,11 @@ http://127.0.0.1:6878/ace/getstream?id=49acacbbbcf33be6e843958ceedc7da8dd4f1486
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar",M+ DEPORTES 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c47f756750190e4b2a9eefe8afdac48a2203b8d6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar",M+ DEPORTES 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=85bd65161dfd8c4033194da3c978c0450c9111db
+http://127.0.0.1:6878/ace/getstream?id=2ffe5450b7652730b8f7cb636db483442d871df9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=0c8935087510ee1c5117243a6cc46f9d6d795faf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 4 FHD
-http://127.0.0.1:6878/ace/getstream?id=a88195215f9b6e38bf6363d28bfe84000a12d46a
+http://127.0.0.1:6878/ace/getstream?id=478833f6390f04e95c6d94180a784b78ad540d2f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 5 HD
 http://127.0.0.1:6878/ace/getstream?id=5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" ,M+ Deportes 6 HD
