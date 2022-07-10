@@ -121,8 +121,8 @@ http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 http://127.0.0.1:6878/ace/getstream?id=94cbe1ffb1080b4201f198a09ee0e53d1782dcd2
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports Main Event HD
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png", Sky Bundesliga 1 HD DE
-http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png", Sky Sport UHD
+http://127.0.0.1:6878/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
 #EXTINF:-1 group-title="SETANTA SPORT" tvg-logo="https://www.arax.md/assets/channels/188.png", SETANTA SPORT 1 HD
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 group-title="SETANTA SPORT" tvg-logo="https://www.arax.md/assets/channels/227.png", SETANTA SPORT 2 HD
