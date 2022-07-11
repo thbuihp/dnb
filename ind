@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect1.png" group-title="English Sports",Star Sports Select 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest/scale-to-width-down/220?cb=20170728104438" group-title="English Sports",Star Sports Select 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1hd.png" group-title="Sport",Ten 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN_1_-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Sport",Ten 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://46.105.112.116/?watch=R-EX/SPORTS_TEN_2_HD-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3hd.png" group-title="Sport",Ten 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://46.105.112.116/?watch=R-EX/SPORTS_TEN_3_HD-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057
