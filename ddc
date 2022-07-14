@@ -1,16 +1,22 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml"
-#EXTINF:0 group-title="SPOTV.kr" , SPOTV
+#EXTINF:0 tvg-id="SPOTV.kr" group-title="SPOTV" , SPOTV
 http://live-kr.television4you.xyz/spotv/mpegts
-#EXTINF:0 group-title="SPOTV.kr" , SPOTV 2
+#EXTINF:0 tvg-id="SPOTV.kr" group-title="SPOTV" , SPOTV 2
 http://live-kr.television4you.xyz/spotv2/mpegts
-#EXTINF:0 group-title="SPOTV.kr" , SPOTV PRIME
+#EXTINF:0 group-title="SPOTV" , SPOTV PRIME
 http://live-kr.television4you.xyz/spotvprime/mpegts
-#EXTINF:0 group-title="SPOTV.kr" , SPOTV GOLF
+#EXTINF:0 tvg-id="SPOTVGolfHealth.kr" group-title="SPOTV" , SPOTV GOLF
 http://live-kr.television4you.xyz/spotvgnh/mpegts
-#EXTINF:0 group-title="SPOTV.kr" , SPOTV ON
+#EXTINF:0 group-title="SPOTV" , SPOTV ON
 http://live-kr.television4you.xyz/spotvon/mpegts
-#EXTINF:0 group-title="SPOTV.kr" , SPOTV ON 2
+#EXTINF:0 group-title="SPOTV" , SPOTV ON 2
 http://live-kr.television4you.xyz/spotvon2/mpegts
+#EXTINF:-1 tvg-id="KBSNSports.kr" tvg-logo="https://i.imgur.com/xZ2s9eY.png" group-title="Korea Sports", KBSN Sports
+http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=292&q=default
+#EXTINF:-1 tvg-id="MBCSportsPlus.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_SportsPlus.svg/512px-MBC_SportsPlus.svg.png" group-title="Korea Sports", MBC Sports
+http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=293&q=default
+#EXTINF:-1 tvg-id="SBSSports.kr" tvg-logo="https://i.imgur.com/L2SdLkb.png" group-title="Korea Sports", SBS Sports
+http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=294&q=default
 #EXTINF:0 group-title="X" , CINE 
 http://209.97.171.71:9981/stream/channelid/1911980824?auth=P4heiA7ReKyKGfOBrPwmSjDrWq6Q&profile=pass
 #EXTINF:0 group-title="X" , LIFE 
