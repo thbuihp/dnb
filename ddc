@@ -1,4 +1,4 @@
--1#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml"
 #EXTINF:0 tvg-id="SPOTV.kr" group-title="SPOTV" , SPOTV
 http://live-kr.television4you.xyz/spotv/mpegts
 #EXTINF:0 tvg-id="SPOTV.kr" group-title="SPOTV" , SPOTV 2
@@ -11,14 +11,13 @@ http://live-kr.television4you.xyz/spotvgnh/mpegts
 http://live-kr.television4you.xyz/spotvon/mpegts
 #EXTINF:0 group-title="SPOTV" , SPOTV ON 2
 http://live-kr.television4you.xyz/spotvon2/mpegts
-#EXTINF:0 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/KaJNjF1.png" group-title="KOREA",채널A
-http://ye23.win/iptv/korea2021.php?id=Channel
-
+#EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/KaJNjF1.png" group-title="KOREA",채널A
+https://apichvod19.seezntv.com/OTM/10030_H.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="KOREA",JTBC
 https://apichvod19.seezntv.com/OTM/10010_H.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 
-#EXTINF:0 tvg-id="MBCTV.kr"tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCTV.kr"tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
+https://apichvod19.seezntv.com/OTM/10540_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="KOREA",KBS 1TV
 https://apichvod19.seezntv.com/OTM/10170_H.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
