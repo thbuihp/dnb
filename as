@@ -45,6 +45,8 @@ http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 http://127.0.0.1:6878/ace/getstream?id=96b091c006f02bb1ca80743905b2cffded8bc8b0
 #EXTINF:-1 group-title="Movistar",M+ #0
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 group-title="Movistar",LA 1 
+http://127.0.0.1:6878/ace/getstream?id=b41d52a733be6f4709db3bdf33e260de2b67d27a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="DAZN" ,DAZN 1 ES 
 http://127.0.0.1:6878/ace/getstream?id=d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="DAZN" ,DAZN 2 ES 
