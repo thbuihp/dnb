@@ -55,8 +55,8 @@ http://127.0.0.1:6878/ace/getstream?id=42fea4e172bf3debe0e004260bdd077fe0b4f58e
 http://127.0.0.1:6878/ace/getstream?id=bfbcda5a0999256360ce560caf2a6473aafc3f11
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="DAZN" ,DAZN 4 ES
 http://127.0.0.1:6878/ace/getstream?id=3634ae8e7443f637222e0255f0fc70bf3f050e64
-#EXTINF:-1 group-title="DAZN" ,DAZN F1 FHD
-http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
+#EXTINF:-1 group-title="DAZN" ,DAZN F1 UHD
+http://127.0.0.1:6878/ace/getstream?id=c6a13147a8c39427103c0b47b303edfd170609e2
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 1 HD 
 http://127.0.0.1:6878/ace/getstream?id=56bb17b376ec52b5e58679d87ed2bd9e70be2175
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 2 HD 
@@ -105,9 +105,9 @@ http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 group-title="BT Sport" tvg-logo="http://vietanhtv.duckdns.org/ic/btsports.png", BT Sport ESPN HD
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport 1 DE HD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport Top Event
 http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport 2 DE HD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport Tennis 
 http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports Premier League HD
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
@@ -125,7 +125,7 @@ http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 http://127.0.0.1:6878/ace/getstream?id=94cbe1ffb1080b4201f198a09ee0e53d1782dcd2
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports Main Event HD
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png", Sky Sport UHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png", Sky Sport Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport DE UHD
 http://127.0.0.1:6878/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
