@@ -35,6 +35,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed147166c7df93f7aecba44d4e2fc9383d028218
 http://127.0.0.1:6878/ace/getstream?id=e693d6b35ee9dc2c6a0d0593edec281268e79440
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/268/4553268-middle.png" group-title="Movistar",M+ LIGA TV BAR FHD
 http://127.0.0.1:6878/ace/getstream?id=608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
+#EXTINF:-1 group-title="Movistar",Laliga Smartbank FHD
+http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="Movistar",GOL TV 1080
 http://127.0.0.1:6878/ace/getstream?id=49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 group-title="Movistar",tdp 
