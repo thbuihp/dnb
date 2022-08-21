@@ -37,6 +37,10 @@ http://127.0.0.1:6878/ace/getstream?id=e693d6b35ee9dc2c6a0d0593edec281268e79440
 http://127.0.0.1:6878/ace/getstream?id=608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
 #EXTINF:-1 group-title="Movistar",Laliga Smartbank FHD
 http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 group-title="Movistar",Laliga Smartbank 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
+#EXTINF:-1 group-title="Movistar",Dazn Liga 1080 MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="Movistar",GOL TV 1080
 http://127.0.0.1:6878/ace/getstream?id=49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 group-title="Movistar",tdp 
@@ -105,7 +109,7 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 group-title="BT Sport" tvg-logo="http://vietanhtv.duckdns.org/ic/btsports.png", BT Sport 3 HD
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="BT Sport" tvg-logo="http://vietanhtv.duckdns.org/ic/btsports.png", BT Sport ESPN HD
+#EXTINF:-1 group-title="BT Sport" tvg-logo="http://vietanhtv.duckdns.org/ic/btsports.png", BT Sport 4 HD
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport Top Event
 http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
