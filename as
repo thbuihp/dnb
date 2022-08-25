@@ -131,10 +131,18 @@ http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 http://127.0.0.1:6878/ace/getstream?id=94cbe1ffb1080b4201f198a09ee0e53d1782dcd2
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports Main Event HD
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png", Sky Sport Bundesliga UHD
+#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="4K",ELEVEN SPORT 1 PL 4K
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-logo="https://www.avcaesar.com/src/news/00/00/86/99/how-to-watch-the-tokyo-2020-olympic-games-in-4k-ultra-hd.jpg" group-title="4K",EUROSPORT 4K
+http://127.0.0.1:6878/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-uhd.png" group-title="4K",SKY BUNDESLIGA 4K
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport DE UHD
-http://127.0.0.1:6878/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
+#EXTINF:-1 tvg-logo="https://ak.picdn.net/shutterstock/videos/7872409/thumb/3.jpg" group-title="4K",CINEMA 4K
+http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/284-2844478_russian-extreme-tv-channel-replaces-extreme-russian-extreme.png" group-title="4K",RUSSIAN EXTREME 4K
+http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="4K",LOVE NATURE 4K
+http://127.0.0.1:6878/ace/getstream?id=a54d3ec9d49487cb1e9102c74f341fec4cebd189
 #EXTINF:-1 group-title="SETANTA SPORT" tvg-logo="https://www.arax.md/assets/channels/188.png", SETANTA SPORT 1 HD
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 group-title="SETANTA SPORT" tvg-logo="https://www.arax.md/assets/channels/227.png", SETANTA SPORT 2 HD
