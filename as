@@ -181,6 +181,26 @@ http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
 http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 group-title="Polsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_Sport_logo_2016.png",Polsat Sport Extra FHD 
 http://127.0.0.1:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="Canal+",CANAL+ SPORT PL
+http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="Canal+",CANAL+ SPORT 2 PL
+http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-3-1883.png" group-title="Canal+",CANAL+ SPORT 3 PL
+http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png" group-title="Canal+",CANAL+ SPORT 4 PL
+http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-sport.png" group-title="SPORTS - THANKS",TVP SPORT PL
+http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportklub-635.png" group-title="SPORTS - THANKS",SPORTKLUB PL
+http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-polsat-sport-fight-1311.png" group-title="SPORTS - THANKS",POLSAT SPORT FIGHT PL
+http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fight-klub-polska-1312.png" group-title="SPORTS - THANKS",FIGHTKLUB PL
+http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fightbox-578.png" group-title="SPORTS - THANKS",FIGHTBOX RU
+http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fightbox-578.png" group-title="SPORTS - THANKS",FIGHTBOX PL
+http://127.0.0.1:6878/ace/getstream?id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
 #EXTINF:-1 group-title="Ziggo", Ziggo Sport Select HD
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 group-title="Ziggo", Ziggo Sport Voetbal HD
@@ -213,4 +233,23 @@ http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 group-title="Bein Sports", BEIN SPORTS 4 TURKEY
 http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-
+#EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-1-241.png",ESPN 1 NL FHD
+http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-2-242.png",ESPN 2 NL FHD
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-3-243.png",ESPN 3 NL FHD
+http://127.0.0.1:6878/ace/getstream?id=a97cafedefe189d63e52eadc5c9bbc351b01540a
+#EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-4-244.png",ESPN 4 NL FHD
+http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" group-title="SPORTS - THANKS",ESPN US HD 60FPS
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nz-espn-2-466.png" group-title="SPORTS - THANKS",ESPN 2 US HD 60FPS
+http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png" group-title="SPORTS - THANKS",FOX SPORTS 1 US
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-2-61.png" group-title="SPORTS - THANKS",FOX SPORTS 2 US
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-uk-mutv-114.png",MUTV
+http://127.0.0.1:6878/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6
+#EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-nba-tv-75.png",NBA TV HD 60FPS
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
