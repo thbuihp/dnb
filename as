@@ -235,6 +235,8 @@ http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 group-title="Bein Sports", BEIN SPORTS 4 TURKEY
 http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 group-title="Bein Sports", BEIN SPORTS en Espanol
+http://127.0.0.1:6878/ace/getstream?id=52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-1-241.png",ESPN 1 NL FHD
 http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-2-242.png",ESPN 2 NL FHD
