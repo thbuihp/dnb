@@ -68,9 +68,9 @@ http://127.0.0.1:6878/ace/getstream?id=c6a13147a8c39427103c0b47b303edfd170609e2
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 1 HD 
 http://127.0.0.1:6878/ace/getstream?id=56bb17b376ec52b5e58679d87ed2bd9e70be2175
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 2 HD 
-http://127.0.0.1:6878/ace/getstream?id=3186bc27f56cbcab144feafa19efadbca1255a8f
+http://127.0.0.1:6878/ace/getstream?id=b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 #EXTINF:-1 tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg" group-title="SPORT-TV" ,SPORT-TV 3 HD 
-http://127.0.0.1:6878/ace/getstream?id=4d78fadc6701008fb528202d9671e1d0f2acd486
+http://127.0.0.1:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT 1 DE
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/05/eurosport_logo_black.png" group-title="EUROSPORT" ,EUROSPORT 1 RU
