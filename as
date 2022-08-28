@@ -129,8 +129,6 @@ http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sport F1 DE HD
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports F1 UK HD
-http://127.0.0.1:6878/ace/getstream?id=94cbe1ffb1080b4201f198a09ee0e53d1782dcd2
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://vietanhtv.duckdns.org/ic/skysports.png", Sky Sports Main Event HD
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="4K",ELEVEN SPORT 1 PL 4K
