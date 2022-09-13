@@ -1,6 +1,8 @@
 #EXTM3U  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar",M+ LIGA DE CAMPONES FHD 
 http://127.0.0.1:6878/ace/getstream?id=aedf221240a0f8513d90b555bf1b6e5306ac1e76
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar",M+ LIGA DE CAMPONES SV2 FHD 
+http://127.0.0.1:6878/ace/getstream?id=539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar",M+ LIGA DE CAMPONES 2 FHD 
 http://127.0.0.1:6878/ace/getstream?id=9b76d0739f87555ccd3f42fc8e548762a0b94c28
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar",M+ LIGA DE CAMPONES 3 FHD
@@ -27,6 +29,8 @@ http://127.0.0.1:6878/ace/getstream?id=5332bb2816154565c8953257da07c2dcb46fccca
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/268/4553268-middle.png" group-title="Movistar",M+ LIGA FHD
 http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/268/4553268-middle.png" group-title="Movistar",M+ LIGA SV2 FHD
+http://127.0.0.1:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/268/4553268-middle.png" group-title="Movistar",M+ LIGA 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=4229d640fecf3c0897674241bcf851b67f4310e3
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/268/4553268-middle.png" group-title="Movistar",M+ LIGA 2 FHD
