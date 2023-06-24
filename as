@@ -215,5 +215,7 @@ http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-uk-mutv-114.png",MUTV
 http://127.0.0.1:6878/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6
+http://donglao.duckdns.org/vn360sport/vidio.php?id=205
+
 #EXTINF:-1 group-title="SPORTS - THANKS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-nba-tv-75.png",NBA TV HD 60FPS
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
