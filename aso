@@ -1,0 +1,21 @@
+#EXTN3U
+#EXTINF:-1 ch-number="795" tvg-id="Supersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",795 SuperSport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
+##https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default.mpd
+https://malay.yurendtv.biz.id/dash-wv/linear/9986/default.mpd
+
+#EXTINF:-1 ch-number="796" tvg-id="Supersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",796 SuperSport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
+https://malay.yurendtv.biz.id/dash-wv/linear/9987/default.mpd
+
+#EXTINF:-1 ch-number="797" tvg-id="Supersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",797 SuperSport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
+https://malay.yurendtv.biz.id/dash-wv/linear/9988/default.mpd
+
+#EXTINF:-1 ch-number="798" tvg-id="Supersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",798 SuperSport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
+https://malay.yurendtv.biz.id/dash-wv/linear/9989/default.mpd
