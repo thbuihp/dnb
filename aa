@@ -1,0 +1,202 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="V Sport Ultra HD" tvg-logo="https://i.ibb.co/vsRLWMF/vsportuhd.png" group-title="SPORTS", V Sport UHD 🇸🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+https://cors.seljebu.no/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.th" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="SPORTS" , BEIN SPORTS 1 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein2.png" group-title="SPORTS" , BEIN SPORTS 2 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="SPORTS" , BEIN SPORTS 3 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wLGqW0B/bein4.png" group-title="SPORTS" , BEIN SPORTS 4 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dg0H5Rt/bein5.png" group-title="SPORTS" , BEIN SPORTS 5 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jhKgsrF/bein6.png" group-title="SPORTS" , BEIN SPORTS 6 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NsTzDCV/bein7.png" group-title="SPORTS" , BEIN SPORTS 7 🇹🇭 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.ibb.co/tx9GDdq/assu4.png" group-title="SPORTS", ASS 4 🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/2506/default_primary.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"Eh8nDF6mtpC+3X5KV/Lwxg", "kid":"KxobcCbOSzeKvUsmaql4Dw" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/e36872d8b3f54568fdcbb.png" tvg-id="AstroAEC",Astro AEC
+https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"AiI5ZeM/e/HmwhJ4Bju1CA", "kid":"sOfb4l5sSfm1JeYU/EqmDA" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/8ad97b76073e147cdeaa1.png" tvg-id="AstroQJ",Astro QJ
+https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/4dd8b7db6182cb5f48ce5.png" tvg-id="AstroArena2",Astro Arena 2
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" tvg-id="AstroArenaBola",Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/6996a6dca16f43f734049.png" tvg-id="AstroArenaBola2",Arena Bola 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/027d18a908471d18906c5.png" tvg-id="AstroArenaBola3",Arena Bola 3
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/ec444fecfcb3a20cd6aa4.png" tvg-id="AstroSupersport",Astro Supersport
+https://astro.xyssatu.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/bdb04ae013c6d829c3851.png" tvg-id="AstroSupersport2",Astro Supersport 2
+https://astro.xyssatu.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/fee0eec440200aabe6685.png" tvg-id="AstroSupersport3",Astro Supersport 3
+https://astro.xyssatu.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/4cf5891aa6569231ea9a8.png" tvg-id="AstroSupersport4",Astro Supersport 4
+https://astro.xyssatu.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/f3d65152120615b6eef9b.png" tvg-id="W-Sport",W-Sport
+https://astro.xyssatu.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"KsTvR0StICr8wuhz19w5Fg", "kid":"4r0pp0ZaSuSGp1ACMFgKbg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/5f88f4c83df61f6896eee.png" tvg-id="SPOTV",SPOTV
+https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"ZfiPZoUB9++nXCW+WY90Vg", "kid":"pXcYTtbGRWC+uHyW7nj3uA" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/5cbed7dd2c3a6d7d93391.png" tvg-id="SPOTV2",SPOTV2
+https://dcqkiaqc3sngm.cloudfront.net/CH3/masterCH3.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"YQmmvYbtrvEye7VRF9GQGw", "kid":"nNGsnmSYTwCdAAt2p4yFNQ" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/9b6896ed919c7fd15ce01.png" tvg-id="829.astro",Astro Box Office Sport
+https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"SziYvIpv/Ytcs0p82QbcNQ", "kid":"n7/9H/ITQBaaWhFCvPTdrQ" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/d94c1cdf66541be72786b.png" tvg-id="beINSports",beIN Sports
+https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"xSfUpbPUNkMSpOeLnenogA", "kid":"XLBdFMjdRWO5VuN9Cg8Rdw" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/8b9be78d45d64af83200c.png" tvg-id="beINSports2",beIN Sports 2
+https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"ubYV/h3VVgYX3hkdJTwCvA", "kid":"5Uay6K31Toe3u2wM1szC2g" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/5e4a76a2f67d30080d63f.png" tvg-id="beINSports3",beIN Sports 3
+https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"WwDUNB6QswIrXlcTmuirFg", "kid":"SiZ7oJs6Q5aTZO53923WIg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/b9bcb8b113bc1e58e50bb.png" tvg-id="beINSports3",beIN Sports 4
+https://linear05-playback.sooka.my/CH2/masterCH2.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQzMTg3NSwiaWF0IjoxNzAwODI3ODc1fQ.Qn23mX_bXCO7QMoKqmzn6u1GTZhDe2kuO_OGSkMhozA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"YQmmvYbtrvEye7VRF9GQGw", "kid":"nNGsnmSYTwCdAAt2p4yFNQ" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/47c8bb0c2539e976de2bf.png" tvg-id="beINSports3",beIN Sports 5
+https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
+
