@@ -28,7 +28,7 @@ https://cachehsi1a.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/bbc-1.jpg.webp" group-title="UK Entertainment",BBC1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc1.mpd
+https://cachehsi1a.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
 
 #EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/bbc-2.jpg.webp" group-title="UK Entertainment",BBC2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
